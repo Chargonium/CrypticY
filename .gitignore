@@ -1,1 +1,4 @@
 /.venv
+/helpers/__pycache__
+*.data
+*.key
